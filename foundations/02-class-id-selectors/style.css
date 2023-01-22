@@ -1,0 +1,32 @@
+body
+{
+   font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+p{
+    background-color: #fa8072;
+
+}
+
+.number-3,
+.number-4
+{
+    font-size: 24px;
+}
+
+
+#number-2
+{
+    color: blue;
+    font-size: 36px;
+}
+
+.number-4
+{
+    background-color: lightgreen;
+    font-weight: 800;
+}
+
+* **The fourth element**:
+ a light green background, 
+ a font size of 24px, and bold
